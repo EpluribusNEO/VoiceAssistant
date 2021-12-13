@@ -1,8 +1,8 @@
 # VoiceAssistant
 Voice Assistant uses WolframAlpha
 
-###ENG:
+### ENG:
 Change the APPID variable to your WolframAlpha AppID.
 
-###RUN:
+### RUN:
 Измени значение переменной APPID на свое значение WolframAlpha AppID.
